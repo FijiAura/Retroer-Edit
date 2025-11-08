@@ -28,7 +28,7 @@
 		"version": {
 			"type": "string",
 			"name": "Version",
-			"default": "1.0",
+			"default": "1.9",
 			"description": "The servion of the editor to be simulating",
 			"one-of": [
 				"1.0",
