@@ -1,13 +1,13 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.9.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "thesillydoggo.retro_edit",
-	"name": "Retro Edit",
+	"id": "fijiaura.retroer_edit",
+	"name": "Retroer Edit",
 	"version": "v1.0.1",
 	"developer": "TheSillyDoggo",
 	"description": "Allows you to use the object palette from older versions of the game",
